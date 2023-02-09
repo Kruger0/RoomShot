@@ -1,4 +1,4 @@
-# RoomShot
+# RoomShot for GMS2
 A quick room-sized screenshot generator for GameMaker Studio 2
 
 Instructions: Simple drag the file to your project and it's done.
